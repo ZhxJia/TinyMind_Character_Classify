@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ec2c96a6-24a3-4b1d-8a26-413c9a559675" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1b6xH59RUu6T3WULRsdruZbidVT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/characeter_dataset.py" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="two.files.diff.last.used.file" value="$USER_HOME$/Downloads/characeter_dataset.py" />
+  </component>
+  <component name="RunManager" selected="Python.characeter_dataset">
+    <configuration name="characeter_dataset" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="tmd" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/datasets" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/datasets/characeter_dataset.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="tmd" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="tmd" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/train.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.characeter_dataset" />
+        <item itemvalue="Python.train" />
+        <item itemvalue="Python.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ec2c96a6-24a3-4b1d-8a26-413c9a559675" name="Default Changelist" comment="" />
+      <created>1587966253207</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587966253207</updated>
+      <workItem from="1587966262491" duration="895000" />
+      <workItem from="1587967249307" duration="17209000" />
+      <workItem from="1589613488074" duration="2980000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1588" y="8" width="1496" height="826" key="DiffContextDialog" timestamp="1587990684020">
+      <screen x="-1680" y="-84" width="1680" height="1010" />
+    </state>
+    <state x="-1588" y="8" width="1496" height="826" key="DiffContextDialog/0.0.1366.728/-1680.-84.1680.1010@-1680.-84.1680.1010" timestamp="1587990684020" />
+    <state x="-1060" y="-84" width="745" height="1017" key="FileChooserDialogImpl" timestamp="1587990355899">
+      <screen x="-1680" y="-84" width="1680" height="1010" />
+    </state>
+    <state x="-1060" y="-84" width="745" height="1017" key="FileChooserDialogImpl/0.0.1366.728/-1680.-84.1680.1010@-1680.-84.1680.1010" timestamp="1587990355899" />
+    <state width="1637" height="271" key="GridCell.Tab.0.bottom" timestamp="1587992269852">
+      <screen x="-1680" y="-84" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="271" key="GridCell.Tab.0.bottom/0.0.1366.728/-1680.-84.1680.1010@-1680.-84.1680.1010" timestamp="1587992269852" />
+    <state width="1323" height="199" key="GridCell.Tab.0.bottom/0.0.1366.728/-1680.-84.1680.1010@0.0.1366.728" timestamp="1587986732416" />
+    <state width="1637" height="271" key="GridCell.Tab.0.center" timestamp="1587992269852">
+      <screen x="-1680" y="-84" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="271" key="GridCell.Tab.0.center/0.0.1366.728/-1680.-84.1680.1010@-1680.-84.1680.1010" timestamp="1587992269852" />
+    <state width="1323" height="199" key="GridCell.Tab.0.center/0.0.1366.728/-1680.-84.1680.1010@0.0.1366.728" timestamp="1587986732415" />
+    <state width="1637" height="271" key="GridCell.Tab.0.left" timestamp="1587992269852">
+      <screen x="-1680" y="-84" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="271" key="GridCell.Tab.0.left/0.0.1366.728/-1680.-84.1680.1010@-1680.-84.1680.1010" timestamp="1587992269852" />
+    <state width="1323" height="199" key="GridCell.Tab.0.left/0.0.1366.728/-1680.-84.1680.1010@0.0.1366.728" timestamp="1587986732415" />
+    <state width="1637" height="271" key="GridCell.Tab.0.right" timestamp="1587992269852">
+      <screen x="-1680" y="-84" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="271" key="GridCell.Tab.0.right/0.0.1366.728/-1680.-84.1680.1010@-1680.-84.1680.1010" timestamp="1587992269852" />
+    <state width="1323" height="199" key="GridCell.Tab.0.right/0.0.1366.728/-1680.-84.1680.1010@0.0.1366.728" timestamp="1587986732415" />
+    <state width="1637" height="271" key="GridCell.Tab.1.bottom" timestamp="1587992269853">
+      <screen x="-1680" y="-84" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="271" key="GridCell.Tab.1.bottom/0.0.1366.728/-1680.-84.1680.1010@-1680.-84.1680.1010" timestamp="1587992269853" />
+    <state width="1323" height="252" key="GridCell.Tab.1.bottom/0.0.1366.728/-1680.-84.1680.1010@0.0.1366.728" timestamp="1587986405495" />
+    <state width="1637" height="271" key="GridCell.Tab.1.center" timestamp="1587992269853">
+      <screen x="-1680" y="-84" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="271" key="GridCell.Tab.1.center/0.0.1366.728/-1680.-84.1680.1010@-1680.-84.1680.1010" timestamp="1587992269853" />
+    <state width="1323" height="252" key="GridCell.Tab.1.center/0.0.1366.728/-1680.-84.1680.1010@0.0.1366.728" timestamp="1587986405495" />
+    <state width="1637" height="271" key="GridCell.Tab.1.left" timestamp="1587992269853">
+      <screen x="-1680" y="-84" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="271" key="GridCell.Tab.1.left/0.0.1366.728/-1680.-84.1680.1010@-1680.-84.1680.1010" timestamp="1587992269853" />
+    <state width="1323" height="252" key="GridCell.Tab.1.left/0.0.1366.728/-1680.-84.1680.1010@0.0.1366.728" timestamp="1587986405495" />
+    <state width="1637" height="271" key="GridCell.Tab.1.right" timestamp="1587992269853">
+      <screen x="-1680" y="-84" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="271" key="GridCell.Tab.1.right/0.0.1366.728/-1680.-84.1680.1010@-1680.-84.1680.1010" timestamp="1587992269853" />
+    <state width="1323" height="252" key="GridCell.Tab.1.right/0.0.1366.728/-1680.-84.1680.1010@0.0.1366.728" timestamp="1587986405495" />
+    <state x="184" y="6" key="SettingsEditor" timestamp="1587967092649">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="6" key="SettingsEditor/0.0.1366.728/-1680.-84.1680.1010@0.0.1366.728" timestamp="1587967092649" />
+    <state x="-1410" y="113" key="com.intellij.ide.util.TipDialog" timestamp="1589613513093">
+      <screen x="-1920" y="-156" width="1920" height="1040" />
+    </state>
+    <state x="363" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728/-1680.-84.1680.1010@0.0.1366.728" timestamp="1587967260304" />
+    <state x="-1410" y="113" key="com.intellij.ide.util.TipDialog/0.0.1366.728/-1920.-156.1920.1040@-1920.-156.1920.1040" timestamp="1589613513093" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1587984703693">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728/-1680.-84.1680.1010@0.0.1366.728" timestamp="1587984703693" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/tmd$characeter_dataset.coverage" NAME="characeter_dataset Coverage Results" MODIFIED="1587992234221" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datasets" />
+    <SUITE FILE_PATH="coverage/tmd$train.coverage" NAME="train Coverage Results" MODIFIED="1587983849862" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/tmd$test.coverage" NAME="test Coverage Results" MODIFIED="1587981583953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
